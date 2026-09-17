@@ -276,6 +276,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 
 **ChatGPT 深入教程：**
 
+- [ChatGPT Pro 20X 暂停新订阅（2026-09）：官方规则、账号状态与使用额度深度指南](./pro-20x-new-subscription-pause-2026/)
 - [2026 GPT充值 / ChatGPT Plus、Pro 国内充值完整指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 - [GPT / ChatGPT 充值多少钱？套餐价格与选择](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-price-guide.md)
 - [ChatGPT 充值和官方订阅有什么区别？](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
@@ -303,6 +304,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 ## 更新记录
 
 - **2026-09**：建立 `gpt-chongzhi` 仓库，聚焦「GPT充值 / ChatGPT充值」怎么充、支付宝 / 微信付款、Plus 与 Pro 选择、到账与会员 / API 区别等搜索意图；与 `gpt-daichong`（代充安全专题）及 `ai-subscription-guide`（知识库）建立专题互链。
+- **2026-09-16**：新增专题深度页 [ChatGPT Pro 20X 暂停新订阅（2026-09）](./pro-20x-new-subscription-pause-2026/)，梳理官方政策时间线、账号状态判断矩阵、GPT-6 Pro / GPT-5.6 Sol Pro 使用额度、取消/降级/续费影响与第三方充值注意事项。
 
 ---
 
