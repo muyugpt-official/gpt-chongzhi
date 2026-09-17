@@ -108,7 +108,7 @@ lang: zh-CN
 - 如需查看当前 **ChatGPT 套餐与实时人民币服务价格**，可进入 MuyuGPT 官网的 [ChatGPT 套餐页面](https://muyugpt.com/chatgpt)；
 - 如需查看 **Pro 20X 新用户服务说明**，可进入对应服务页面：[ChatGPT Pro 20X 新用户服务](https://muyugpt.com/chatgpt/pro-20x-new)。
 
-必须再次强调：**MuyuGPT 是独立第三方服务**，提供的是第三方订阅 / 开通协助，**不代表 OpenAI 恢复了官方新订阅，也不能绕过官方政策**；页面上的人民币价格是 MuyuGPT 自有的**第三方服务价格**，并非 OpenAI 官方人民币价格（OpenAI 官方 Pro 20X 为 $200/月）。
+必须讲清楚：**MuyuGPT 是独立第三方服务**。官方新订阅暂停期间，**新用户仍可通过 MuyuGPT 的第三方开通协助通道（特殊渠道）开通 Pro 20X**——也就是官方渠道暂时买不了，但通过我们的特殊渠道现在仍可开通。这属于第三方订阅 / 开通协助，**并不代表 OpenAI 官方恢复了新订阅**；页面上的人民币价格是 MuyuGPT 自有的**第三方服务价格**，并非 OpenAI 官方人民币价格（OpenAI 官方 Pro 20X 为 $200/月）。
 
 ## 10. 常见问题（FAQ）
 
