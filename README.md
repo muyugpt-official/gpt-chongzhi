@@ -1,4 +1,4 @@
-# 2026 GPT充值 / ChatGPT充值指南：ChatGPT Plus、Pro 国内购买、支付宝微信付款与到账说明
+# ChatGPT / GPT 怎么充值：国内购买 Plus、Pro 的完整说明
 
 > **最后更新：2026 年 9 月**
 >
