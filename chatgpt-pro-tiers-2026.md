@@ -66,6 +66,12 @@ MuyuGPT 产品页上的 Pro 5X / Pro 20X，沿用的是旧叫法，实际在售�
 - **credits 不是 API 额度**；ChatGPT 与 OpenAI 开发者平台是两套独立计费；API 余额也不能拿来支付 ChatGPT 订阅。
 - Pro 500 每月是否附赠固定 credits，官方资料里**没有看到公布**，请不要理解为"$500 等于 $500 额度"。
 
+## 四·补、Codex 与套餐的关系
+
+- 按 OpenAI 帮助中心《Using Codex with your ChatGPT plan》当前说明，Codex 包含在各个 ChatGPT 套餐里（含 Free 与 Go）；**云端环境只对符合条件的 Plus 及以上开放**。
+- Codex 与 ChatGPT Work 等共用同一份额度与 credits 池；用 ChatGPT 账号登录走套餐额度，用 API key 登录则按开发者平台标准价格计费，且没有云端功能。
+- 详见官网文章：[Codex 需要什么 ChatGPT 会员](https://muyugpt.com/blog/codex-membership-requirements)、[Codex 订阅和 API 有什么区别](https://muyugpt.com/blog/codex-vs-api-difference)。
+
 ## 五、计费与购买（已知与未知）
 
 | 项目 | 已知 | 未知 / 请自行确认 |
@@ -104,7 +110,7 @@ MuyuGPT 产品页上的 Pro 5X / Pro 20X，沿用的是旧叫法，实际在售�
 
 | 日期 | 变化 |
 | --- | --- |
-| 2026-10-01 | 建立本手册并链接官网解读文章：补充 Pro 100 / 200 / 500、倍数叫法对照、Ultrafast、credits 与 API 的区别；标注各条信息的把握程度 |
+| 2026-10-01 | 增补 Codex 与套餐关系小节；建立本手册并链接官网解读文章：补充 Pro 100 / 200 / 500、倍数叫法对照、Ultrafast、credits 与 API 的区别；标注各条信息的把握程度 |
 
 ## 资料来源
 
