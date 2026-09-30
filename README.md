@@ -44,6 +44,18 @@
 
 ---
 
+## 按问题找文档
+
+| 你想解决的问题 | 看这篇 |
+| --- | --- |
+| Pro 100 / 200 / 500 是什么、5X / 20X 旧叫法怎么对应 | [ChatGPT Pro 套餐手册（2026-10）](./chatgpt-pro-tiers-2026.md) |
+| 付款页面报 Your card was declined 等提示怎么办 | [ChatGPT 付款失败提示对照](./docs/chatgpt-payment-failed-messages.md) |
+| 官方直付、应用商店、第三方订阅协助怎么选 | [ChatGPT 付款路径对比](./docs/ways-to-pay-compared.md) |
+| 找第三方代充，怎么判断安不安全 | [GPT代充 / ChatGPT代充安全专题](https://github.com/muyugpt-official/gpt-daichong) |
+| Pro 20X 暂停新订阅那段时间的规则（历史记录） | [Pro 20X 暂停专题（2026-09）](./pro-20x-new-subscription-pause-2026.md) |
+
+---
+
 ## 目录
 
 - [一、GPT充值是什么意思？](#一gpt充值是什么意思)
@@ -273,6 +285,21 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 
 ---
 
+**ChatGPT 付款时提示 Your card was declined 是什么意思？**
+意思是发卡行拒绝了这笔交易，原因可能是卡种限制、境外线上订阅类扣款的风控、额度不足或验证没通过，页面一般不会告诉你具体是哪一种。常见提示对照和先做什么，见 [ChatGPT 付款失败提示对照](./docs/chatgpt-payment-failed-messages.md)。
+
+**官方直付、应用商店和第三方订阅协助，该怎么选？**
+看三件事：你有没有稳定可用的境外支付方式、你是不是苹果设备用户、你对账号控制权和人民币结算的要求。并排对比和选第三方之前要核对的 6 件事，见 [ChatGPT 付款路径对比](./docs/ways-to-pay-compared.md)。
+
+**ChatGPT Pro 现在有哪几档？**
+Pro 100、Pro 200、Pro 500 三档（2026-09-29 起），旧叫法 Pro 5X / 20X 大致对应前两档；各条信息的把握程度见 [ChatGPT Pro 套餐手册](./chatgpt-pro-tiers-2026.md)。
+
+**ChatGPT 会员到期后会怎样？**
+账号和历史对话保留，付费档的功能和额度回到免费版，续费后从新的周期开始。细节见官网文章 [ChatGPT 会员到期后会怎样](https://muyugpt.com/blog/chatgpt-membership-expiry)。
+
+**付款失败多次，会影响我的账号吗？**
+付款失败本身不应影响账号使用，但短时间内反复尝试可能让支付层面的风控更严格，建议失败一两次后换条路，而不是连续重试。
+
 ## 十四、相关阅读
 
 **MuyuGPT 的 AI 充值仓库矩阵：**
@@ -286,6 +313,8 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 **ChatGPT 深入教程：**
 
 - [ChatGPT Pro 套餐手册（2026-10）：Pro 100 / 200 / 500 与 5X / 20X 叫法对照](./chatgpt-pro-tiers-2026/)
+- [ChatGPT 付款失败提示对照](./docs/chatgpt-payment-failed-messages.md)
+- [ChatGPT 付款路径对比：官方直付、应用商店、第三方订阅协助](./docs/ways-to-pay-compared.md)
 - [ChatGPT Pro 20X 暂停新订阅（2026-09）：官方规则、账号状态与使用额度深度指南（历史记录）](./pro-20x-new-subscription-pause-2026/)
 - [2026 GPT充值 / ChatGPT Plus、Pro 国内充值完整指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 - [GPT / ChatGPT 充值多少钱？套餐价格与选择](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-price-guide.md)
@@ -313,6 +342,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 
 ## 更新记录
 
+- **2026-10-01**：新增 `docs/` 下两篇文档——[付款失败提示对照](./docs/chatgpt-payment-failed-messages.md)、[付款路径对比](./docs/ways-to-pay-compared.md)；README 增加「按问题找文档」索引和 5 条真实长尾 FAQ。
 - **2026-09**：建立 `gpt-chongzhi` 仓库，聚焦「GPT充值 / ChatGPT充值」怎么充、支付宝 / 微信付款、Plus 与 Pro 选择、到账与会员 / API 区别等搜索意图；与 `gpt-daichong`（代充安全专题）及 `ai-subscription-guide`（知识库）建立专题互链。
 - **2026-10-01**：新增 [ChatGPT Pro 套餐手册](./chatgpt-pro-tiers-2026/)，补充 Pro 100 / 200 / 500、Ultrafast、倍数叫法对照；在 README 顶部加入「2026-10 最新变化」；为暂停专题页加上历史记录提示。
 - **2026-09-16**：新增专题深度页 [ChatGPT Pro 20X 暂停新订阅（2026-09）](./pro-20x-new-subscription-pause-2026/)，梳理官方政策时间线、账号状态判断矩阵、GPT-6 Pro / GPT-5.6 Sol Pro 使用额度、取消/降级/续费影响与第三方充值注意事项。
