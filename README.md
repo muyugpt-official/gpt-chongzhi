@@ -39,7 +39,7 @@
 
 - 2026-09-29，OpenAI 新增 **Pro 500（$500/月）**，并让暂停的 **Pro 200** 重新开放（额度下调）；**Pro 100** 不变。**Plus 没有涨价**，$500 是 Pro 系列里新增的最高档。
 - 三档 Pro 的功能一致，差别在 Codex / ChatGPT Work 的用量，以及只有 Pro 500 才有的 Ultrafast 速度档。
-- 旧名字"Pro 5X / Pro 20X"与新名字"Pro 100 / Pro 200"的对应关系、每条信息的把握程度，见 👉 [ChatGPT Pro 套餐手册（2026-10）](./chatgpt-pro-tiers-2026/)。
+- 旧名字"Pro 5X / Pro 20X"与新名字"Pro 100 / Pro 200"的对应关系、每条信息的把握程度，见 👉 [ChatGPT Pro 套餐手册（2026-10）](./chatgpt-pro-tiers-2026/)；官网解读文章：[ChatGPT Pro 500 是什么？$100、$200、Plus 一次讲清](https://muyugpt.com/blog/chatgpt-pro-500-vs-pro-100-200-plus)。
 - 最后核验：2026-10-01。套餐还在调整，下单前请以 OpenAI 当前页面和 MuyuGPT 下单页实时显示为准。
 
 ---
