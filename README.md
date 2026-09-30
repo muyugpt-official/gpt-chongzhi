@@ -35,6 +35,15 @@
 
 ---
 
+## 2026-10 最新变化：ChatGPT Pro 现在有三档
+
+- 2026-09-29，OpenAI 新增 **Pro 500（$500/月）**，并让暂停的 **Pro 200** 重新开放（额度下调）；**Pro 100** 不变。**Plus 没有涨价**，$500 是 Pro 系列里新增的最高档。
+- 三档 Pro 的功能一致，差别在 Codex / ChatGPT Work 的用量，以及只有 Pro 500 才有的 Ultrafast 速度档。
+- 旧名字"Pro 5X / Pro 20X"与新名字"Pro 100 / Pro 200"的对应关系、每条信息的把握程度，见 👉 [ChatGPT Pro 套餐手册（2026-10）](./chatgpt-pro-tiers-2026/)。
+- 最后核验：2026-10-01。套餐还在调整，下单前请以 OpenAI 当前页面和 MuyuGPT 下单页实时显示为准。
+
+---
+
 ## 目录
 
 - [一、GPT充值是什么意思？](#一gpt充值是什么意思)
@@ -276,7 +285,8 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 
 **ChatGPT 深入教程：**
 
-- [ChatGPT Pro 20X 暂停新订阅（2026-09）：官方规则、账号状态与使用额度深度指南](./pro-20x-new-subscription-pause-2026/)
+- [ChatGPT Pro 套餐手册（2026-10）：Pro 100 / 200 / 500 与 5X / 20X 叫法对照](./chatgpt-pro-tiers-2026/)
+- [ChatGPT Pro 20X 暂停新订阅（2026-09）：官方规则、账号状态与使用额度深度指南（历史记录）](./pro-20x-new-subscription-pause-2026/)
 - [2026 GPT充值 / ChatGPT Plus、Pro 国内充值完整指南](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-plus-pro-alipay-wechat-recharge.md)
 - [GPT / ChatGPT 充值多少钱？套餐价格与选择](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-price-guide.md)
 - [ChatGPT 充值和官方订阅有什么区别？](https://github.com/muyugpt-official/ai-subscription-guide/blob/main/docs/chatgpt/chatgpt-recharge-vs-official-subscription.md)
@@ -304,6 +314,7 @@ MuyuGPT 是面向中文用户的独立第三方 AI 订阅指南与订阅协助�
 ## 更新记录
 
 - **2026-09**：建立 `gpt-chongzhi` 仓库，聚焦「GPT充值 / ChatGPT充值」怎么充、支付宝 / 微信付款、Plus 与 Pro 选择、到账与会员 / API 区别等搜索意图；与 `gpt-daichong`（代充安全专题）及 `ai-subscription-guide`（知识库）建立专题互链。
+- **2026-10-01**：新增 [ChatGPT Pro 套餐手册](./chatgpt-pro-tiers-2026/)，补充 Pro 100 / 200 / 500、Ultrafast、倍数叫法对照；在 README 顶部加入「2026-10 最新变化」；为暂停专题页加上历史记录提示。
 - **2026-09-16**：新增专题深度页 [ChatGPT Pro 20X 暂停新订阅（2026-09）](./pro-20x-new-subscription-pause-2026/)，梳理官方政策时间线、账号状态判断矩阵、GPT-6 Pro / GPT-5.6 Sol Pro 使用额度、取消/降级/续费影响与第三方充值注意事项。
 
 ---

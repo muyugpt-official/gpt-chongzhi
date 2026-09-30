@@ -13,6 +13,8 @@ lang: zh-CN
 >
 > **事实来源优先级：** 本文涉及的 OpenAI 政策与套餐能力，以 [OpenAI Help Center](https://help.openai.com/) 与 [OpenAI 官方定价页](https://openai.com/chatgpt/pricing/) 当前说明为准；官方未公布的内容（如暂停原因、恢复时间）本文明确标注为"未公布"，不做推测。
 
+> **2026-10-01 更新：** Pro 200（即本文的 Pro 20X）已于 2026-09-29 重新向新订阅者开放，但新订阅的额度低于之前；同时 OpenAI 新增了更高的 Pro 500。本文完整保留 **2026-09-10 至 09-29 暂停期间**的规则与判断逻辑，作为历史记录。**当前各档位的对照与最新规则请看 [ChatGPT Pro 套餐手册（2026-10）](../chatgpt-pro-tiers-2026/)。**
+
 这篇是写给**需要把细节搞清楚**的读者的：不是复述新闻，而是把「谁能买、谁不能买、买错会怎样、额度到底差多少、第三方充值该注意什么」拆成可判断的逻辑。如果你只想要一份面向普通用户的中文说明，可以先读官网版本：[ChatGPT Pro 20X 暂停新订阅怎么办](https://muyugpt.com/blog/chatgpt-pro-20x-new-subscription-paused-2026)；本文在它的基础上更偏**技术与流程**。
 
 ## 1. 政策时间线（Policy Timeline）
